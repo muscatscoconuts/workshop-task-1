@@ -1,5 +1,6 @@
 # workshop-task-1
-workshop 1 ////
+the url for this project : https://muscatscoconuts.github.io/workshop-task-1/
+# workshop 1 ////
 There are five main coding concepts : variables, conditionals, loops, functions, objects
 How can we make a shape bounce back?? Or change direction
  - to make it go backwards x - 5 won’t make it go back because x is reaching a number greater than the width, while simultaneously trying to add to x
